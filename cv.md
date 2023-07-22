@@ -6,7 +6,7 @@
 - Location: Minsk, Belarus
 - phone number: +375 (25) 768-93-15
 - E-mail: 7689315v@gmail.com
-- GitHub: 
+- GitHub: [IvanSaksonov-Cr1stal](https://github.com/IvanSaksonov-Cr1stal)
 
 ***
  **About me**
