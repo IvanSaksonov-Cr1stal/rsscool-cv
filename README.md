@@ -1,1 +1,1 @@
-https://IvanSaksonov-Cr1stal.github.io/rsschool-cv/cv
+ https://ivansaksonov-cr1stal.github.io/rsscool-cv/
