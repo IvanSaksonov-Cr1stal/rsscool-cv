@@ -14,10 +14,12 @@
 
 ****
 
- ### About me
+### About me
  I am a 3rd year student at BNTU.  specialty: teacher-programmer.  Studied html, css, js.  I liked them and I wanted to develop in this direction
+
  ****
- ### Skills
+
+### Skills
  - HTML
  - CSS
  - Git
@@ -25,21 +27,24 @@
  - Adobe Photoshop
 
  ***
-  ### Code Example:
+
+### Code Example:
  function multiply(a, b){
   return a * b;
   }
 
  ***
- ### Languages:
+
+### Languages:
  - Russian(Native)
  - English(Elementary)
 
   ***
- ### Courses
+### Courses
   - RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
   - HTML and CSS Tutorials on the w3schools (in progress)
 
   ***
- ### English
+  
+### English
   studied at school and university
